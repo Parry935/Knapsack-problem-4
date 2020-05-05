@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  Drzewo.cpp
+  Obliczenia.cpp
+c:\users\g\desktop\programowanie\lab9\program_1\program_1\program_1\obliczenia.cpp(26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Program_1.cpp
+  Generowanie kodu...
+c:\users\g\desktop\programowanie\lab9\program_1\program_1\program_1\drzewo.cpp(219): warning C4715: "wezly_prawe”: niewszystkie ścieżki kodu zwracają wartość
+  Program_1.vcxproj -> C:\Users\g\Desktop\Programowanie\Lab9\Program_1\Program_1\Debug\Program_1.exe

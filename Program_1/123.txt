@@ -1,0 +1,130 @@
+KROK NR: 1
+
+Max profit: 0
+Profit: 0
+Weight: 0
+Bound: 115
+K: 3
+Totalweight: 7
+OBIECUJACY
+
+KROK NR: 2
+
+Max_profit: 40
+Profit: 40
+Weight: 2
+Bound: 115
+K: 3
+Totalweight: 7
+OBIECUJACY
+
+KROK NR: 3
+
+Max_profit: 70
+Profit: 70
+Weight: 7
+Bound: 115
+K: 3
+Totalweight: 7
+OBIECUJACY
+
+KROK NR: 4
+
+Max_profit: 70
+Profit: 120
+Weight: 17
+Bound: 115
+K: 3
+Totalweight: 7
+NIEOBIECUJACY
+
+KROK NR: 5
+
+Max_profit: 70
+Profit: 70
+Weight: 7
+Bound: 80
+K: 5
+Totalweight: 12
+OBIECUJACY
+
+KROK NR: 6
+
+Max_profit: 80
+Profit: 80
+Weight: 12
+Bound: 80
+K: 5
+Totalweight: 12
+NIEOBIECUJACY
+
+KROK NR: 7
+
+Max_profit: 80
+Profit: 70
+Weight: 7
+Bound: 70
+K: 5
+Totalweight: 7
+NIEOBIECUJACY
+
+KROK NR: 8
+
+Max_profit: 80
+Profit: 40
+Weight: 2
+Bound: 98
+K: 4
+Totalweight: 12
+OBIECUJACY
+
+KROK NR: 9
+
+Max_profit: 90
+Profit: 90
+Weight: 12
+Bound: 98
+K: 4
+Totalweight: 12
+OBIECUJACY
+
+KROK NR: 10
+
+Max_profit: 90
+Profit: 100
+Weight: 17
+Bound: 98
+K: 4
+Totalweight: 12
+NIEOBIECUJACY
+
+KROK NR: 11
+
+Max_profit: 90
+Profit: 90
+Weight: 12
+Bound: 90
+K: 5
+Totalweight: 12
+NIEOBIECUJACY
+
+KROK NR: 12
+
+Max_profit: 90
+Profit: 40
+Weight: 2
+Bound: 50
+K: 5
+Totalweight: 7
+NIEOBIECUJACY
+
+KROK NR: 13
+
+Max_profit: 90
+Profit: 0
+Weight: 0
+Bound: 82
+K: 4
+Totalweight: 15
+NIEOBIECUJACY
+
